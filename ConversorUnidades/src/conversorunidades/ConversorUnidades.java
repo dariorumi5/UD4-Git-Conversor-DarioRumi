@@ -1,7 +1,7 @@
 package conversorunidades;
 
 	public class ConversorUnidades {
-
+// Contribución de Juan Pérez: Módulo de temperatura.
 	    /**
 	     * Convierte grados Celsius a Fahrenheit
 	     */
