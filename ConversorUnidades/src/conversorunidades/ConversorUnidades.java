@@ -1,5 +1,5 @@
 package conversorunidades;
-
+//comentario locacl
 	public class ConversorUnidades {
 // Contribución de Juan Pérez: Módulo de temperatura.
 	    /**
